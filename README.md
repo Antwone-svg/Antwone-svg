@@ -1,5 +1,8 @@
 ## About Me
 Hello, my name is Antwone, welcome to my GitHub profile.
+
+### What I'm currently doing.
+I am a student at UTRGV hoping to transfer to UT Austin and persue a degree in Bio-Medical Engineering.
 <!--
 **Antwone-svg/Antwone-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
