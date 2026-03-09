@@ -4,7 +4,7 @@ Hello, my name is Antwone, welcome to my GitHub profile.
 ### What I'm currently doing.
 I am a student at UTRGV hoping to transfer to UT Austin and persue a degree in Bio-Medical Engineering. I plan to foucus on regenerative medicine and nanothecnology.
 
-(https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([www.linkedin.com/in/antwone-richardson-163324386](https://www.linkedin.com/in/antwone-richardson-163324386/))
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)]([www.linkedin.com/in/antwone-richardson-163324386](https://www.linkedin.com/in/antwone-richardson-163324386/))
 <!--
 **Antwone-svg/Antwone-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
